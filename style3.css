@@ -1,0 +1,1266 @@
+
+.background{
+    background-color: #777;
+    width: 100%;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.navbar{
+    overflow: hidden;
+    background-color: lightslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    width: 33.3%;
+    display: flex;
+    justify-content: space-around;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 20px;
+    width: 100%;
+    margin-top: -4px;
+
+
+}
+
+.navbar a{
+
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 100%;
+
+    
+}
+.navbarr {
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: bisque;
+    padding: 14px 16px;
+    background-color: inherit;
+    font: inherit;
+    margin: 0;
+    width: 100%;
+
+}
+
+
+.navbar a:hover, .navbarr:hover {
+  background-color: rgb(69, 79, 88);
+    display: flex;
+    justify-content:center ;
+
+}
+
+
+
+.backimg{
+    background-image: url(bbbassa.jpg);
+    width: 100%;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+
+   .backimg {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+  }
+  
+  img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .text {
+    font-size: 23px;
+    padding-left: 20px;
+  }
+
+  .header4{
+    background-image: url(headeraudia34.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .head4{
+    float: left;
+  }
+  .header5{
+    background-image: url(headeraudia38p.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .header6{
+    background-image: url(headeraudia38v.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .header7{
+    background-image: url(headeraudia3y.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+
+  .header{
+    background-image: url(Untitled.png);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header2{
+    background-image: url(header-background-dark.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header10{
+    background-image: url(headeraudia5tt.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header11{
+    background-image: url(headeraudia5w.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+
+  .headerb5{
+    background-image: url(headeraudia43.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .headerb6{
+    background-image: url(headeraudia44.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .headerb7{
+    background-image: url(headeraudii444.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .headerb8{
+    background-image: url(headeraudia4343.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .headerb9{
+    background-image: url(headeraudia41.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .headerC4{
+    background-image: url(headeraudia3456878.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .headerC5{
+    background-image: url(headeraudia6c5.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .headerC6{
+    background-image: url(headeraudia6c6.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  
+  .headerC7{
+    background-image: url(headeraudia6c.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .headerC8{
+    background-image: url(headeraudia6c8.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .header010{
+    background-image: url(headeraudia74g8.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .header020{
+    background-image: url(headeraudia74k8.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .header030{
+    background-image: url(headeraudia8d2.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  
+  .header040{
+    background-image: url(headeraudia8d3.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .header050{
+    background-image: url(headeraudia8d4.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .header060{
+    background-image: url(headeraudia8d5.jpg);
+    width: 100%;
+    height: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+
+
+  
+
+
+
+
+  .head{
+    margin-left: 45%;
+  }
+
+  .gtiimg{
+    width: 500px;
+    height: 300px;
+  }
+
+
+
+
+
+  .header3{
+    background-image: url(headeraudi.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header20{
+    background-image: url(headerbmwm23.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header21{
+    background-image: url(headerbmwm22.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header22{
+    background-image: url(headerbmwm2cs.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .header25{
+    background-image: url(headerbmwm3.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header26{
+    background-image: url(headerbmwE30.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .header27{
+    background-image: url(headerbmwe36.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .header28{
+    background-image: url(headerbmwe46.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header29{
+    background-image: url(headerbmwe90.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header30{
+    background-image: url(headerbmwf800.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .header31{
+    background-image: url(headerbmwf80.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header40{
+    background-image: url(headerbmwm4.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header45{
+    background-image: url(headerbmwm6.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .header50{
+    background-image: url(headerbmwm8.jpg);
+    width: 100%;
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+
+
+
+
+.topaudi3l{
+  background-image: url(a38l.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.text3{
+  backdrop-filter: blur(200px) ;
+  text-align: center;
+    font-size: 23px;
+    margin-left: 1000px;
+    margin-top: 68px;
+
+}
+
+.text4{
+  backdrop-filter: blur(200px) ;
+  text-align: center;
+    font-size: 23px;
+
+    margin-right: 1000px;
+    margin-top: 68px;
+    
+
+}
+
+
+
+.topaudi3p{
+  background-image: url(a38p.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi3v{
+  background-image: url(a3v.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi3y{
+  background-image: url(a38y.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+
+
+.topaudi4b5{
+  background-image: url(a4b5.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi4b6{
+  background-image: url(a4b66.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+
+.topaudi4b7{
+  background-image: url(a4b7.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi4b8{
+  background-image: url(a4b8.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topaudi4b9{
+  background-image: url(audi-a4-b9-8w-facelift-2018-[28373].jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+
+
+.topaudi5t{
+  background-image: url(a588ttt.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topaudi5tt{
+  background-image: url(a58tt.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topaudi5w{
+  background-image: url(a58w.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topaudi6c4{
+  background-image: url(a6c4.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi6c5{
+  background-image: url(a6c5.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi6c6{
+  background-image: url(a6c66.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi6c7{
+  background-image: url(a6c7.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+
+.topaudi6c8{
+  background-image: url(a6c8.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topm2comp{
+  background-image: url(m2\ compe.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topm2cs{
+  background-image: url(m2cs..jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topm2f87{
+  background-image: url(m2f87.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topm2g87{
+  background-image: url(m2g87.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+  
+
+.topm3e30{
+  background-image: url(m3e30.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topm3e36{
+  background-image: url(IMG_1125555.png);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topm3e46{
+  background-image: url(m3e46.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topm3e90{
+  background-image: url(m3e90.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topm3f90{
+  background-image: url(m3f80.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topm4f82{
+  background-image: url(m4f82.webp);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topm4g82{
+  background-image: url(m4g82.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topm6e24{
+  background-image: url(m6e24.jpeg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+
+.topm6e63{
+  background-image: url(m6e63.avif);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topm6f06{
+  background-image: url(m6f06.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topm8f92{
+  background-image: url(m8f92.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topaudi74g8{
+  background-image: url(a74g8.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi74k8{
+  background-image: url(a74k8.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi8d2{
+  background-image: url(a8d2.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+.topaudi8d3{
+  background-image: url(a8d3.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topaudi8d4{
+  background-image: url(a8d4.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+.topaudi8d5{
+  background-image: url(a8d5.jpg);
+    width: 100%;
+    height: 1020px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-top: -25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.home{
+  font-size: 25px;
+  color: white;
+  margin-top: -200px;
+  margin-left: 1770px;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  backdrop-filter: blur(5px);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.home:hover{
+  background-color: white;
+  color:white ;
+}
+
+
+.home1{
+  font-size: 25px;
+  color: white;
+margin-top: -120px;
+
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  backdrop-filter: blur(5px);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.home1:hover{
+  background-color: white;
+  color:white ;
+}
+
+
+.home2{
+  font-size: 25px;
+  color: white;
+
+margin-left: 900px;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  backdrop-filter: blur(5px);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.home2:hover{
+  background-color: white;
+  color:white ;
+}
+
+
+
+.home3{
+  font-size: 25px;
+  color: white;
+  margin-left: 1750px;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  backdrop-filter: blur(5px);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.home3:hover{
+  background-color: white;
+  color:white ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  font-size: 12px;
+  padding: 10px;
+  background-color: lightslategray;
+  color: white;
+  margin-top: -4px;
+  
+
+}
+
+.just{
+  display: flex;
+  justify-content: space-around;
+}
+
+.instagram{
+
+  float: left;
+  margin: 24px;
+  padding: 10px;
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  background-image: url(instagram.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  animation: anim 2s linear infinite;
+}
+@keyframes anim {
+  from{
+      rotate: 0deg;
+
+  }
+  to{
+      rotate: 360deg;
+  }
+}
+
+.facebook{
+
+  background-image: url(facebook.webp);
+  float: left;
+  margin: 24px;
+  padding: 15px;
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  animation: anim2 2s linear infinite;
+  
+}
+
+
+@keyframes anim2 {
+  0%{
+      translate: 0px;
+      rotate: 0deg;
+  }
+  25%{
+      translate: -70px;
+      rotate: 0deg;
+  }  
+  50%{
+      translate: 0px;
+      rotate: 0deg;
+  } 
+  75%{
+      translate: 70px;
+      rotate: 0deg;
+  } 
+  100%{
+      translate: 0px;
+      rotate: 360deg;
+}
+}
+
+.twitter{
+  float: left;
+  margin: 24px;
+  padding: 10px;
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  background-image: url(twitter.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  animation: anim3 2s linear infinite;
+
+}
+
+@keyframes anim3 {
+  from{
+      rotate: 0deg;
+
+  }
+  to{
+      rotate: 360deg;
+  }
+}
+
+
+
